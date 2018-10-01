@@ -76,7 +76,6 @@ project-list:
         name: Smart Dustbin Project, WeConvert, New Delhi 2017-2018
         description: The Smart dustbin was a raspberry pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin. It makes use of Image Processing Alogorithms to classify objects and the hardware interfaced through the raspberry pi drops it in the right bin and communicates with the user through the Human machine interface. My work involved delveloping the detection algorithms, HMI and embedded systems development.
 The system was tested at various colleges, malls, and public places. I was covered by media agencies such as DuBeat, Your Story and ZeeTv.
-        
  
     Three Degree Of Freedom Robotic Arm:
         name: Three Degree of Freedom Robotic Arm
@@ -86,18 +85,14 @@ The system was tested at various colleges, malls, and public places. I was cover
         name: Object Follower
         description: Raspberry pi based system that tracks an object in the HSV color space using blob detection and postitions the motors such that the object lies in the centre of the camera frame. 
       
-	
-
     Beat Detection:
         name: Beat Detection
         description: This project involved performing FFT on Audio signal for beat detection and interfacing servo motors to react to the sensed beats.
        
-
     Line Follower Robot:
         name: Line Follower Robot
         description: This is a simple Line Follower built using Light sensitive resistors and automatic calibration for different lighting scenarios.
         
-
     Artist:
         name: Artist
         description: This is a simple project made using junk material to draw simple shapes through the motor assembly controlled by the Atmel micro-controller using L293D motor driver.
