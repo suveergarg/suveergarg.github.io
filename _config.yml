@@ -1,24 +1,23 @@
 # Your name and what you do
-name: Eve Adam
-bio: Software Developer
+name: Suveer Garg
+bio: Embedded Systems And Robotics Engineer
 
-description: Eve Adam's Personal Website
+description: Suveer's Personal Website
 
 # Profile picture
 picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://suveergarg.github.io/
 
 # do you want to display social media links? true or false
 social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+linkedin: https://www.linkedin.com/in/suveer-garg-6974a0a4/
+github: https://github.com/suveergarg
+email: gargsuveer@gmail.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -45,14 +44,12 @@ skills: true
 
 # add your skills here
 skills-list:
-    - HTML, Jade
-    - CSS (Stylus, Sass, Less)
-    - Javascript, NodeJS
-    - AngularJS, ReactJS
-    - Java, Android
-    - Python
-    - MySQL - MongoDB    
-    - Git    
+    - Python,C++
+    - Altium Designer, Atmel Studio, Visual Studio    
+    - Linux, ROS, open-frameworks
+    - Image processing (OPENCV)
+    - Data Science (keras, Scipy)
+    - Quick Prototyping Boards (Arduino, Raspberrry pi)	
 
 # do you want to display a projects section? true or false
 projects: true
