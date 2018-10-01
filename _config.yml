@@ -56,23 +56,37 @@ projects: true
 
 # add your projects here
 project-list:
-    Eve:
-        name: Eve
-        description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
-        url: https://github.com/jibolash/Eve
-    World-Cup-History:
-        name: World Cup  History
-        description: npm package for FIFA World cup historical data
-        url: https://github.com/jibolash/world-cup-history
-    Tweeter:
-        name: Tweeter
-        description: A Twitter inspired web application built with Angular 5
-        url: https://tweetermum.herokuapp.com
-    Transcend:
-        name: Transcend
-        description: An android app for meditation and mindfulness
-        url: https://github.com/Khosbayar/Transcend
+    Unmanned Ground Vehicles Team:
+        name: Unmanned Ground Vehicle, DTU 2017-2018
+        description: Founded and Lead a team of 6 students in building a automated ground vehicle
+	under the Robot Operating System Framework, to participate in the IGVC competition held in Oakland, U.S.A. Responsible for team operations, raising funds and embedded systems development. My work involved interfacing the IMU and motor Drivers through the microcontroller to communicate with the main system as a ROS node.  
+        url: 
 
+    Tangible User Interface for Smart Mirror:
+        name: Tangible User Interface for Smart Mirror
+        description: This project under Prof.Aman Parnami at IIITD, Weave Lab, explored the application of a tangible user interface for mirrors of the future. Various interaction use cases were ideated that explored areas such as sharing stories, post-surgery rehabilitation and construction toolkits. My work involved writing the image processing, UI and embedded systems code under open-frameworks. It also involved writing use-cases and ideating with the team. 
+        url: 
+
+	
+    Ecofrost Technologies Pvt. Ltd.:
+        name: Ecofrost Technologies, Internship, Pune 2017-2018
+        description: 
+        url: 
+
+    Beat Detection:
+        name: Beat Detection
+        description: This project involved performing FFT on Audio signal for beat detection and interfacing servo motors to react to the sensed beats.
+        url:
+
+    Line Follower Robot:
+        name: Line Follower Robot
+        description: This is a simple Line Follower built using Light sensitive resistors and automatic calibration for different lighting scenarios.
+        url:
+
+    Artist:
+        name: Artist
+        description: This is a simple project made using junk material to draw simple shapes through the assembly
+        url:
 
 # do you want to display the theme attribution? true or false
 footer: true
