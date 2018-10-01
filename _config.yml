@@ -87,7 +87,7 @@ project-list:
     Object Follower:
         name: Object Follower
         description: Raspberry pi based system that tracks an object in the HSV color space using blob detection and postitions the motors such that the object lies in the centre of the camera frame. 
- 	    video: Track.mp4
+ 	    video: assets/videos/Track.mp4
       
     Beat Detection:
         name: Beat Detection
