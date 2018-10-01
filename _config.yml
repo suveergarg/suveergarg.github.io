@@ -58,8 +58,7 @@ projects: true
 project-list:
     Unmanned Ground Vehicles Team:
         name: Unmanned Ground Vehicle, DTU 2017-2018
-        description: Founded and Lead a team of 6 students in building a automated ground vehicle
-	under the Robot Operating System Framework, to participate in the IGVC competition held in Oakland, U.S.A. Responsible for team operations, raising funds and embedded systems development. My work involved interfacing the IMU and motor Drivers through the microcontroller to communicate with the main system as a ROS node.  
+        description: Founded and Lead a team of 6 students in building a automated ground vehicle under the Robot Operating System Framework, to participate in the IGVC competition held in Oakland, U.S.A. Responsible for team operations, raising funds and embedded systems development. My work involved interfacing the IMU and motor Drivers through the microcontroller to communicate with the main system as a ROS node.  
        
 
     Tangible User Interface for Smart Mirror:
@@ -81,8 +80,7 @@ The system was tested at various colleges, malls, and public places. I was cover
  
     Three Degree Of Freedom Robotic Arm:
         name: Three Degree of Freedom Robotic Arm
-        description: This was built in a team of three for my minor project in university during my undergraduate degree under the ROS framework. I work involved making the Robot description files and setting it up using move it and sending goal positions to the micro-controller
-  	
+        description: This was built in a team of three for my minor project in university during my undergraduate degree under the ROS framework. I work involved making the Robot description files and setting it up using move it and sending goal positions to the micro-controller.
 
     Object Follower:
         name: Object Follower
@@ -102,7 +100,7 @@ The system was tested at various colleges, malls, and public places. I was cover
 
     Artist:
         name: Artist
-        description: This is a simple project made using junk material to draw simple shapes through the assembly
+        description: This is a simple project made using junk material to draw simple shapes through the motor assembly controlled by the Atmel micro-controller using L293D motor driver.
         
 
 # do you want to display the theme attribution? true or false
