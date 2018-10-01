@@ -67,11 +67,25 @@ project-list:
         description: This project under Prof.Aman Parnami at IIITD, Weave Lab, explored the application of a tangible user interface for mirrors of the future. Various interaction use cases were ideated that explored areas such as sharing stories, post-surgery rehabilitation and construction toolkits. My work involved writing the image processing, UI and embedded systems code under open-frameworks. It also involved writing use-cases and ideating with the team. 
         url: 
 
-	
+    
     Ecofrost Technologies Pvt. Ltd.:
         name: Ecofrost Technologies, Internship, Pune 2017-2018
         description: 
         url: 
+ 
+    Smart Dustbin Project:
+        name: Smart Dustbin Project, WeConvert, New Delhi 2017-2018
+        description: The Smart dustbin was a raspberry pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin. It makes use of Image Processing Alogorithms to classify objects and the hardware interfaced through the raspberry pi drops it in the right bin and communicates with the user through the Human machine interface. My work involved delveloping the detection algorithms, HMI and embedded systems development.
+The system was tested at various colleges, malls, and public places. I was covered by media agencies such as
+        url: 
+ 
+
+    Object Follower:
+        name: Object Follower
+        description: Raspberry pi based system that tracks an object in the HSV color space using blob detection and postitions the motors such that the object lies in the centre of the camera frame 
+        url: 
+	
+   	
 
     Beat Detection:
         name: Beat Detection
