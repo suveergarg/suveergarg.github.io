@@ -47,8 +47,8 @@ skills-list:
     - Python,C++
     - Altium Designer, Atmel Studio, Visual Studio    
     - Linux, ROS, open-frameworks
-    - Image processing (OPENCV)
-    - Data Science (keras, Scipy)
+    - Image processing (OpenCV)
+    - Data Science (Keras, Scipy)
     - Quick Prototyping Boards (Arduino, Raspberrry pi)	
 
 # do you want to display a projects section? true or false
