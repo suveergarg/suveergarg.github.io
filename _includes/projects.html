@@ -3,9 +3,14 @@
     {% assign project = project_hash[1] %}
         <div class="item">
                 
-                 <h3 class="title">{{ project.name }}</h3>
-                
-                <p class="description">{{ project.description }}</p>        
+                <h3 class="title">{{ project.name }}</h3>
+                <p class="description">{{ project.description }}</p>
+		<video controls width="720">
+  			<source src="assets/video/{{project.video}}" type="video/mp4">
+  			<div style="border: 1px solid black ; padding: 8px ;">
+				Sorry, your browser does not support the &lt;video&gt; tag used in this demo.
+			</div>
+		</video>         
         </div>
     {% endfor %}
 </section>

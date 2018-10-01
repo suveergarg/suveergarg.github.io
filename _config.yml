@@ -59,7 +59,7 @@ project-list:
     Unmanned Ground Vehicles Team:
         name: Unmanned Ground Vehicle, DTU 2017-2018
         description: Founded and Lead a team of 6 students in building a automated ground vehicle under the Robot Operating System Framework, to participate in the IGVC competition held in Oakland, U.S.A. Responsible for team operations, raising funds and embedded systems development. My work involved interfacing the IMU and motor Drivers through the microcontroller to communicate with the main system as a ROS node.  
-       
+	video:	      
 
     Tangible User Interface for Smart Mirror:
         name: Tangible User Interface for Smart Mirror
@@ -83,6 +83,7 @@ project-list:
     Object Follower:
         name: Object Follower
         description: Raspberry pi based system that tracks an object in the HSV color space using blob detection and postitions the motors such that the object lies in the centre of the camera frame. 
+	video: Track.mp4
       
     Beat Detection:
         name: Beat Detection
@@ -91,11 +92,12 @@ project-list:
     Line Follower Robot:
         name: Line Follower Robot
         description: This is a simple Line Follower built using Light sensitive resistors and automatic calibration for different lighting scenarios.
+	video: Line_Follower.MOV
         
     Artist:
         name: Artist
         description: This is a simple project made using junk material to draw simple shapes through the motor assembly controlled by the Atmel micro-controller using L293D motor driver.
-        
+        video: Artist.mp4
 
 # do you want to display the theme attribution? true or false
 footer: true
