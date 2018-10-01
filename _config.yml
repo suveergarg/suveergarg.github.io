@@ -34,7 +34,7 @@ email: gargsuveer@gmail.com
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # do you want to display an about section? true or false
 about: true
@@ -59,30 +59,30 @@ project-list:
     Unmanned Ground Vehicles Team:
         name: Unmanned Ground Vehicle, DTU 2017-2018
         description: Founded and Lead a team of 6 students in building a automated ground vehicle under the Robot Operating System Framework, to participate in the IGVC competition held in Oakland, U.S.A. Responsible for team operations, raising funds and embedded systems development. My work involved interfacing the IMU and motor Drivers through the microcontroller to communicate with the main system as a ROS node.   
-	video:	      
+	video: abc.mp4	      
 
     Tangible User Interface for Smart Mirror:
         name: Tangible User Interface for Smart Mirror
         description: This project under Prof.Aman Parnami at IIITD, Weave Lab, explored the application of a tangible user interface for mirrors of the future. Various interaction use cases were ideated that explored areas such as sharing stories, post-surgery rehabilitation and construction toolkits. My work involved writing the image processing, UI and embedded systems code under open-frameworks. It also involved writing use-cases and ideating with the team.
-	video:  
+	video: abc.mp4  
      
 
     
     Ecofrost Technologies Pvt. Ltd.:
         name: Ecofrost Technologies, Internship, Pune 2017-2018
         description: During my internship, I was tasked with the conception of a charge measurement device for thermal storage batteries which cannot be measured using conventional methods. After exploring different methods, I settled for capacitive sensing. I used TI's capacitive to digital converters and Atmels mirocontrollers to develop a prototype of the same. My work involved designing the PCBs which required careful deliberation because we were dealing primarily with capacitance. It also involved developing firmware, design of experiments for testing, debugging, collection and analysis of data from the sensor. At the end of the internship, I was able to present my results and correct for various unanticipated errors. I also offered a new approach to attain the objective of energy management for the system using the sensor which had not been considered before.  
-	video:
+	video: abc.mp4
       
  
     Smart Dustbin Project:
         name: Smart Dustbin Project, WeConvert, New Delhi 2017-2018
         description: The Smart dustbin was a raspberry pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin. It makes use of Image Processing Alogorithms to classify objects and the hardware interfaced through the raspberry pi drops it in the right bin and communicates with the user through the Human machine interface. My work involved delveloping the detection algorithms, HMI and embedded systems development.The system was tested at various colleges, malls, and public places. I was covered by media agencies such as DuBeat, Your Story and ZeeTv.
-	video: 	
+	video: abc.mp4 	
  
     Three Degree Of Freedom Robotic Arm:
         name: Three Degree of Freedom Robotic Arm
         description: This was built in a team of three for my minor project in university during my undergraduate degree under the ROS framework. I work involved making the Robot description files and setting it up using move it and sending goal positions to the micro-controller.
-	video: 
+	video: abc.mp4 
 
     Object Follower:
         name: Object Follower
@@ -92,7 +92,7 @@ project-list:
     Beat Detection:
         name: Beat Detection
         description: This project involved performing FFT on Audio signal for beat detection and interfacing servo motors to react to the sensed beats.
-	video: 
+	video: abc.mp4
        
     Line Follower Robot:
         name: Line Follower Robot
