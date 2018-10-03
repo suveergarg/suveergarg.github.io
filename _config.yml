@@ -92,7 +92,7 @@ project-list:
     Beat Detection:
         name: Beat Detection
         description: This project involved performing FFT on Audio signal for beat detection and interfacing servo motors to react to the sensed beats.
-#	 video: abc.mp4
+        video: assets/videos/beat.mp4
        
     Line Follower Robot:
         name: Line Follower Robot
