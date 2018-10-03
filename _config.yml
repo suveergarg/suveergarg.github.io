@@ -97,8 +97,7 @@ project-list:
     Line Follower Robot:
         name: Line Follower Robot
         description: This is a simple Line Follower built using Light sensitive resistors and automatic calibration for different lighting scenarios.
-        
-    	 video: assets/videos/Line_Follower.webm
+        video: assets/videos/Line_Follower.webm
         
     Artist:
         name: Artist
