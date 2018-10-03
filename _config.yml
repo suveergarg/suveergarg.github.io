@@ -87,7 +87,7 @@ project-list:
     Object Follower:
         name: Object Follower
         description: Raspberry pi based system that tracks an object in the HSV color space using blob detection and postitions the motors such that the object lies in the centre of the camera frame. 
-# video: assets/videos/Track.mp4
+        video: assets/videos/Track.mp4
       
     Beat Detection:
         name: Beat Detection
@@ -97,7 +97,7 @@ project-list:
     Line Follower Robot:
         name: Line Follower Robot
         description: This is a simple Line Follower built using Light sensitive resistors and automatic calibration for different lighting scenarios.
-#	 video: Line_Follower.MOV
+    	video: assets/videos/Line_Follower.webm
         
     Artist:
         name: Artist
