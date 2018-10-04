@@ -81,12 +81,12 @@ project-list:
  
     Three Degree Of Freedom Robotic Arm:
         name: Three Degree of Freedom Robotic Arm
-        description: This was built in a team of three for my minor project in university during my undergraduate degree under the ROS framework. I work involved making the Robot description files and setting it up using move it and sending goal positions to the micro-controller.
+        description: This was built in a team of three for my minor project in university during my undergraduate degree under the ROS framework. My work involved making the Robot description files(URDFs) and setting up MoveIt and sending goal positions to the micro-controller.
         video: assets/videos/arm.webm 
 
     Object Follower:
         name: Object Follower
-        description: Raspberry pi based system that tracks an object in the HSV color space using blob detection and postitions the motors such that the object lies in the centre of the camera frame. 
+        description: Raspberry pi based system that tracks an object in the HSV color space using blob detection and positions the motors such that the object lies in the centre of the camera frame. 
         video: assets/videos/Track.webm
       
     Beat Detection:
@@ -96,7 +96,7 @@ project-list:
        
     Line Follower Robot:
         name: Line Follower Robot
-        description: This is a simple Line Follower built using Light sensitive resistors and automatic calibration for different lighting scenarios.
+        description: This is a simple Line Follower built using light sensitive resistors and automatic calibration for different lighting scenarios.
         video: assets/videos/Line_Follower.webm
         
     Artist:
