@@ -82,12 +82,12 @@ project-list:
     Three Degree Of Freedom Robotic Arm:
         name: Three Degree of Freedom Robotic Arm
         description: This was built in a team of three for my minor project in university during my undergraduate degree under the ROS framework. I work involved making the Robot description files and setting it up using move it and sending goal positions to the micro-controller.
-#	 video: abc.mp4 
+        video: assets/videos/arm.webm 
 
     Object Follower:
         name: Object Follower
         description: Raspberry pi based system that tracks an object in the HSV color space using blob detection and postitions the motors such that the object lies in the centre of the camera frame. 
-        video: assets/videos/Track.mp4
+        video: assets/videos/Track.webm
       
     Beat Detection:
         name: Beat Detection
