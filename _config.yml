@@ -56,6 +56,14 @@ projects: true
 
 # add your projects here
 project-list:
+    
+    Multi-Robot Sorting System:
+        name: Multi-Robot Parcel Sorting System
+        description: Designed simulation for multi-robot parcel sorting systems on ROS. The simulation worked for 120 robots that independently planned their paths and avoided collisions. Created software to evaluate the efficiency of the simulation. Additionally worked on the control software for hardware to build a proof of concept for the designed simulation.  
+        video: assets/videos/addverb.webm
+    
+
+
     Unmanned Ground Vehicles Team:
         name: Unmanned Ground Vehicle, DTU 2017-2018
         description: Founded and Lead a team of 6 students in building a automated ground vehicle under the Robot Operating System Framework, to participate in the IGVC competition held in Oakland, U.S.A. Responsible for team operations, raising funds and embedded systems development. My work involved interfacing the IMU and motor Drivers through the microcontroller to communicate with the main system as a ROS node.
