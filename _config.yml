@@ -60,7 +60,7 @@ project-list:
     Multi-Robot Sorting System:
         name: Multi-Robot Parcel Sorting System
         description: Designed simulation for multi-robot parcel sorting systems on ROS. The simulation worked for 120 robots that independently planned their paths and avoided collisions. Created software to evaluate the efficiency of the simulation. Additionally worked on the control software for hardware to build a proof of concept for the designed simulation.  
-        video: assets/videos/addverb.webm
+        video: assets/videos/addverb.mp4
     
 
 
