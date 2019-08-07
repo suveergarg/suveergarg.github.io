@@ -84,7 +84,7 @@ project-list:
  
     Smart Dustbin Project:
         name: Smart Dustbin Project, WeConvert, New Delhi 2017-2018
-        description: The Smart dustbin was a raspberry-pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin. It makes use of Image Processing alogorithms to classify objects and sort trash. My work involved delveloping the detection algorithms, Human Machine Interface and firmware for the embedded systems.The system was tested at various colleges, malls, and public places. The initiative was covered by media agencies such as DuBeat, Your Story and ZeeTv.
+        description: The Smart dustbin was a raspberry-pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin. It makes use of Image Processing alogorithms to classify objects and sort trash. My work involved developing the detection algorithms, human machine interface and firmware for the embedded systems.The system was tested at various colleges, malls, and public places. The initiative was covered by media agencies such as DuBeat, Your Story and ZeeTv.
         video: assets/videos/weconvert.webm 	
  
     Three Degree Of Freedom Robotic Arm:
