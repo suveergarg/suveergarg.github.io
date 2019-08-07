@@ -78,28 +78,28 @@ project-list:
     
     Ecofrost Technologies Pvt. Ltd.:
         name: Ecofrost Technologies, Internship, Pune 2017-2018
-        description: During my internship, I was tasked with the conception of a charge measurement device for thermal storage batteries which cannot be measured using conventional methods. After exploring different methods, I settled for capacitive sensing. I used TI's capacitive to digital converters and Atmels mirocontrollers to develop a prototype of the same. My work involved designing the PCBs which required careful deliberation because we were dealing primarily with capacitance. It also involved developing firmware, design of experiments for testing, debugging, collection and analysis of data from the sensor. At the end of the internship, I was able to present my results and correct for various unanticipated errors. I also offered a new approach to attain the objective of energy management for the system using the sensor which had not been considered before.
+        description: During my internship, I was tasked with the conception of a charge measurement device for thermal storage batteries which cannot be measured using conventional methods. After researching different methods, I choose capacitive sensing because it did not involve moving parts and provided high resolution sensing. I used TI's capacitive to digital converters and Atmels mirocontrollers to develop a prototype system. My work involved designing the PCBs which required careful deliberation because we were dealing primarily with capacitance. It also involved developing firmware, design of experiments for testing, debugging, collection, visualisation and analysis of data from the sensor. At the end of the internship, I presented my results and offered a new approach to attain the objective of energy management for the system using the same sensor based on the learnings from the test experiments.
         video: assets/videos/eco.webm
       
  
     Smart Dustbin Project:
         name: Smart Dustbin Project, WeConvert, New Delhi 2017-2018
-        description: The Smart dustbin was a raspberry pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin. It makes use of Image Processing Alogorithms to classify objects and the hardware interfaced through the raspberry pi drops it in the right bin and communicates with the user through the Human machine interface. My work involved delveloping the detection algorithms, HMI and embedded systems development.The system was tested at various colleges, malls, and public places. I was covered by media agencies such as DuBeat, Your Story and ZeeTv.
+        description: The Smart dustbin was a raspberry-pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin. It makes use of Image Processing alogorithms to classify objects and sort trash. My work involved delveloping the detection algorithms, Human Machine Interface and firmware for the embedded systems.The system was tested at various colleges, malls, and public places. The initiative was covered by media agencies such as DuBeat, Your Story and ZeeTv.
         video: assets/videos/weconvert.webm 	
  
     Three Degree Of Freedom Robotic Arm:
         name: Three Degree of Freedom Robotic Arm
-        description: This was built in a team of three for my minor project in university during my undergraduate degree under the ROS framework. My work involved making the Robot description files(URDFs) and setting up MoveIt and sending goal positions to the micro-controller.
+        description: This was built in a team of three for my minor project in university during my undergraduate degree. My work involved making the Robot description files(URDFs), setting up MoveIt and sending goal positions to the micro-controller using the ROS framework.
         video: assets/videos/arm.webm 
 
     Object Follower:
         name: Object Follower
-        description: Raspberry pi based system that tracks an object in the HSV color space using blob detection and positions the motors such that the object lies in the centre of the camera frame. 
+        description: Raspberry pi based system that tracks an object in the HSV color space using blob detection and controls the motors such that the object lies in the centre of the camera frame. 
         video: assets/videos/Track.webm
       
     Beat Detection:
         name: Beat Detection
-        description: This project involved performing FFT on Audio signal for beat detection and interfacing servo motors to react to the sensed beats.
+        description: This project involved performing FFT on Audio signal for beat detection and controlling servo motors to react to the sensed beats.
         video: assets/videos/beat.mp4
        
     Line Follower Robot:
