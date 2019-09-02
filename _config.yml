@@ -46,8 +46,8 @@ skills: true
 skills-list:
     - Python,C++
     - Altium Designer, Atmel Studio, Visual Studio    
-    - Linux, ROS, open-frameworks
-    - Image processing (OpenCV)
+    - Linux, ROS, Open-Frameworks
+    - Image Processing (OpenCV)
     - Data Science (Keras, Scipy)
     - Quick Prototyping Boards (Arduino, Raspberrry Pi)	
 
