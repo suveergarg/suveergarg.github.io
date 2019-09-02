@@ -89,7 +89,7 @@ project-list:
  
     Three Degree Of Freedom Robotic Arm:
         name: Three Degree of Freedom Robotic Arm
-        description: This was built in a team of three for my minor project in university during my undergraduate degree. My work involved making the Robot description files(URDFs), setting up MoveIt and sending goal positions to the micro-controller using the ROS framework.
+        description: This was built in a team of three for my minor project in university during my undergraduate career. My work involved making the robot description files(URDFs), setting up MoveIt and sending goal positions to the micro-controller using the ROS framework.
         video: assets/videos/arm.webm 
 
     Object Follower:
@@ -99,17 +99,17 @@ project-list:
       
     Beat Detection:
         name: Beat Detection
-        description: This project involved performing FFT on Audio signal for beat detection and controlling servo motors to react to the sensed beats.
+        description: This project involved performing FFT on audio signals for beat detection and controlling servo motors to react to the sensed beats.
         video: assets/videos/beat.mp4
        
     Line Follower Robot:
         name: Line Follower Robot
-        description: This is a simple Line Follower built using light sensitive resistors and automatic calibration for different lighting scenarios.
+        description: This is a simple line follower built using light sensitive resistors and automatic calibration for different lighting scenarios.
         video: assets/videos/Line_Follower.webm
         
     Artist:
         name: Artist
-        description: This is a simple project made using junk material to draw simple shapes through the motor assembly controlled by the Atmel micro-controller using L293D motor driver.
+        description: This is a simple project made using junk material to draw simple shapes using the motor assembly controlled by an 8 bit atmel micro-controller through L293D motor driver.
         video: assets/videos/Artist.mp4
 
 # do you want to display the theme attribution? true or false
