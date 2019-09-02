@@ -2,7 +2,7 @@
 name: Suveer Garg
 bio: Systems Engineer
 
-description: Suveer's Personal Website
+description: Portfolio Page
 
 # Profile picture
 picture: assets/images/profile.jpg
@@ -17,7 +17,7 @@ social-media: true
 # facebook: myfacebook
 linkedin: https://www.linkedin.com/in/suveer-garg-6974a0a4/
 github: https://github.com/suveergarg
-email: gargsuveer@gmail.com
+email: gsuveer@seas.upenn.edu
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -49,7 +49,7 @@ skills-list:
     - Linux, ROS, open-frameworks
     - Image processing (OpenCV)
     - Data Science (Keras, Scipy)
-    - Quick Prototyping Boards (Arduino, Raspberrry pi)	
+    - Quick Prototyping Boards (Arduino, Raspberrry Pi)	
 
 # do you want to display a projects section? true or false
 projects: true
@@ -59,14 +59,14 @@ project-list:
     
     Multi-Robot Sorting System:
         name: Multi-Robot Parcel Sorting System
-        description: Designed simulation for multi-robot parcel sorting systems on ROS. The simulation worked for 120 robots that independently planned their paths and avoided collisions. Created software to evaluate the efficiency of the simulation. Additionally worked on the control software for hardware to build a proof of concept for the designed simulation.  
+        description: Designed simulation for multi-robot parcel sorting systems on ROS. The simulation worked for 120 robots that independently planned their paths and avoided collisions. Created software to evaluate the efficiency of the simulation. Additionally worked on the control software for onboard micro-controllers to build a complete proof of concept.  
         video: assets/videos/addverb.mp4
     
 
 
     Unmanned Ground Vehicles Team:
         name: Unmanned Ground Vehicle, DTU 2017-2018
-        description: Founded and Lead a team of 6 students in building a automated ground vehicle under the Robot Operating System Framework, to participate in the IGVC competition held in Oakland, U.S.A. Responsible for team operations, raising funds and embedded systems development. My work involved interfacing the IMU and motor Drivers through the microcontroller to communicate with the main system as a ROS node.
+        description: Founded and led a team of 6 students in building a automated ground vehicle under the Robot Operating System to participate in the IGVC competition held in Oakland, U.S.A. Responsible for team operations, raising funds and embedded systems development. My work involved interfacing the IMU and motor drivers through the microcontroller to communicate with the main system as a ROS node.
         video: assets/videos/ugv.webm	      
 
 #    Tangible User Interface for Smart Mirror:
@@ -84,7 +84,7 @@ project-list:
  
     Smart Dustbin Project:
         name: Smart Dustbin Project, WeConvert, New Delhi 2017-2018
-        description: The Smart dustbin was a raspberry-pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin. It makes use of Image Processing alogorithms to classify objects and sort trash. My work involved developing the detection algorithms, human machine interface and firmware for the embedded systems.The system was tested at various colleges, malls, and public places. The initiative was covered by media agencies such as DuBeat, Your Story and ZeeTv.
+        description: The Smart dustbin was a Raspberry-Pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin. It makes use of Image Processing alogorithms to classify objects and sort trash. My work involved developing the detection algorithms, human machine interface and firmware for the embedded systems.The system was tested at various colleges, malls, and public places. The initiative was covered by media agencies such as DuBeat, Your Story and ZeeTv.
         video: assets/videos/weconvert.webm 	
  
     Three Degree Of Freedom Robotic Arm:
@@ -94,7 +94,7 @@ project-list:
 
     Object Follower:
         name: Object Follower
-        description: Raspberry pi based system that tracks an object in the HSV color space using blob detection and controls the motors such that the object lies in the centre of the camera frame. 
+        description: Raspberry Pi based system that tracks an object in the HSV color space using blob detection and controls the motors such that the object lies in the center of the camera frame. 
         video: assets/videos/Track.webm
       
     Beat Detection:
