@@ -59,12 +59,12 @@ project-list:
     Intelligent Travel Friendly Medicine Dispenser: 
         name: Intelligent Travel Friendly Medicine Dispenser
         description: Designed from scratch, an IoT travel friendly medicine dispenser with automatic alerts for refilling, dose collection and location tracking. The end-to-end design process involves part selection, PCB layout, CAD design, power architecture design, Over The Air Firmware Update and bootloader design, wireless communications, component integration and writing firmware.  
-        video: assets/videos/ESE516.mp4
+        video: assets/videos/ESE516.mov
 
     Image Stitching and Optical Tracking:
         name: Image Stitching and Optical Tracking
         description: As part of a graduate Computer Vision course, created from scratch modules to find features in images, estimate homography, perform RANSAC, match features across images and blend frames to produce smooth stitched images and videos. Additionally, implemented LCT optical flow tracking algorithm to track objects in a video. 
-        video: assets/videos/CIS581.mp4
+        video: assets/videos/CIS581.mov
 
     Multi-Robot Sorting System:
         name: Multi-Robot Parcel Sorting System
