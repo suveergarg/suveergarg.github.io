@@ -35,7 +35,6 @@ email: gsuveer@seas.upenn.edu
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
 width: large
-] s
 # do you want to display an about section? true or false
 about: true
 
