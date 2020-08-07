@@ -58,7 +58,7 @@ project-list:
     RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform: 
         name: RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform
         description: Implemented Unscented Kalman Filter, particle filter based SLAM with feature matching from LIDAR data, RRT* algorithm. Additionally worked on autonomous quad rotor landing on a moving platform tracked using Aruco markers and minimum jerk quad rotor trajectory under the ROS framework.   
-        video: assets/videos/slam.webm
+        video: assets/videos/Slam.webm
 
 
     Intelligent Travel Friendly Medicine Dispenser: 
