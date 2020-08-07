@@ -15,7 +15,7 @@ social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-linkedin: https://www.linkedin.com/in/suveer-garg-6974a0a4/
+linkedin: suveergarg
 github: https://github.com/suveergarg
 email: gsuveer@seas.upenn.edu
 # google: mygoogle
@@ -57,13 +57,15 @@ projects: true
 project-list:
     RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform: 
         name: RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform
-        description: Implemented Unscented Kalman Filter, particle filter based SLAM with feature matching from LIDAR data, RRT* algorithm. Additionally worked on autonomous quad rotor landing on a moving platform tracked using Aruco markers and minimum jerk quad rotor trajectory under the ROS framework.   
+        description: Implemented Unscented Kalman Filter, particle filter based SLAM with feature matching from LIDAR data, RRT* algorithm. Additionally worked on autonomous quad rotor landing on a moving platform tracked using Aruco markers and minimum jerk quad rotor trajectory under the ROS framework.
+        link: https://github.com/suveergarg/uav_landing   
         video: assets/videos/Slam.webm
 
 
     Intelligent Travel Friendly Medicine Dispenser: 
         name: Intelligent Travel Friendly Medicine Dispenser
-        description: Designed from scratch, an IoT travel friendly medicine dispenser with automatic alerts for refilling, dose collection and location tracking. The end-to-end design process involves part selection, PCB layout, CAD design, power architecture design, Over The Air Firmware Update and bootloader design, wireless communications, component integration and writing firmware.  
+        description: Designed from scratch, an IoT travel friendly medicine dispenser with automatic alerts for refilling, dose collection and location tracking. The end-to-end design process involves part selection, PCB layout, CAD design, power architecture design, Over The Air Firmware Update and bootloader design, wireless communications, component integration and writing firmware.
+	link: https://github.com/briankwn/SmartDose  
         video: assets/videos/ESE516.mp4
 
     Image Stitching and Optical Tracking:
