@@ -5,7 +5,7 @@
                 
                 <h3 class="title">{{ project.name }}</h3>
                 <p style="text-align:justify">{{ project.description }}</p>
-		{% if project.link != null}
+		{% if project.link %}
 		<a href= "{{project.link}}">{{project.link}}</a>
 		{% endif %}
 		<video width="720" height="460" autoplay loop muted>
