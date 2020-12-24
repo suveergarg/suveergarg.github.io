@@ -55,6 +55,12 @@ projects: true
 
 # add your projects here
 project-list:
+    Pick and Place using the 5-DOF Lynx arm in Gazebo: 
+        name: Pick and Place using the Lynx arm in Gazebo
+        description: Used Forward and Inverse velocity and position kinematics to stack blocks in a simulation environment. This was part of a class final project where teams participated in a stacking competitions.
+        video: assets/videos/MEAM520.mp4   
+
+
     RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform: 
         name: RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform
         description: Implemented Unscented Kalman Filter, particle filter based SLAM with feature matching from LIDAR data, RRT* algorithm. Additionally worked on autonomous quad rotor landing on a moving platform tracked using Aruco markers and minimum jerk quad rotor trajectory under the ROS framework.
