@@ -58,10 +58,10 @@ project-list:
         name: Deep Learning for Computer Vision
         description: As part of my Advanced Computer Vision course, I implemented YOLO, SOLO, VAE, DCGAN, Cyclic GAN and Faster Mask-RNN. For the course project, I experimented with a state of the art method that uses Ordinal depth supervision for 3d human pose estimation from single 2d images. Please visit the github links below for more infomation on these projects.
         link: https://github.com/suveergarg/SOLO
-        link: https://github.com/suveergarg/YOLO
-        link: https://github.com/suveergarg/Faster-RCNN
-        link: https://github.com/suveergarg/VAE-GAN
-        link: https://github.com/suveergarg/PoseReconstruction
+        link1: https://github.com/suveergarg/YOLO
+        link2: https://github.com/suveergarg/Faster-RCNN
+        link3: https://github.com/suveergarg/VAE-GAN
+        link4: https://github.com/suveergarg/PoseReconstruction
            
     Pick and Place using the 5-DOF Lynx arm in Gazebo: 
         name: Pick and Place using the Lynx arm in Gazebo
