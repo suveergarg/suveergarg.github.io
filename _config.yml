@@ -44,9 +44,9 @@ skills: true
 # add your skills here
 skills-list:
     - Python,C++
+    - Sklearn, Numpy, tensorflow, pandas, Matplotlib, pytorch
     - Altium Designer, Atmel Studio, Visual Studio, Docker    
     - Linux, ROS, Open-Frameworks
-    - Sklearn, Numpy, tensorflow, pandas, Matplotlib, pytorch
     - Quick Prototyping Boards (Arduino, Raspberrry Pi), SAMD21(ARM 32 bit)	
 
 # do you want to display a projects section? true or false
