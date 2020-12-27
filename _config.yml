@@ -72,28 +72,28 @@ project-list:
 
     RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform: 
         name: RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform
-        description: Implemented Unscented Kalman Filter, particle filter based SLAM with feature matching from LIDAR data, RRT* algorithm. Additionally worked on autonomous quad rotor landing on a moving platform tracked using Aruco markers and minimum jerk quad rotor trajectory under the ROS framework.
+        description: Implemented Unscented Kalman Filter, particle filter SLAM with LIDAR data, RRT* algorithm. Simulated autonomous quad-rotor landing on a moving platform using Aruco markers and minimum jerk quad-rotor trajectory under Gazebo and ROS.
         link: https://github.com/suveergarg/uav_landing   
         video: assets/videos/Slam.webm
 
 
     Image Stitching and Optical Tracking:
         name: Image Stitching and Optical Tracking
-        description: As part of a graduate Computer Vision course, created from scratch modules to find features in images, estimate homography, perform RANSAC, match features across images and blend frames to produce smooth stitched images and videos. Additionally, implemented LCT optical flow tracking algorithm to track objects in a video.
+        description: Created python modules for edge and corner detection, adaptive non-maximal suppression, homography estimation, feature matching using knn, outlier detection with RANSAC and poisson blending to produce smooth stitched images and videos. Additionally, implemented Lucas Kanade optical flow tracking algorithm to track moving objects in a video.
         link: https://github.com/suveergarg/cis581-3A 
         video: assets/videos/CIS581.mp4
 
 
     Intelligent Travel Friendly Medicine Dispenser: 
         name: Intelligent Travel Friendly Medicine Dispenser
-        description: Designed from scratch, an IoT travel friendly medicine dispenser with automatic alerts for refilling, dose collection and location tracking. The end-to-end design process involves part selection, PCB layout, CAD design, power architecture design, Over The Air Firmware Update and bootloader design, wireless communications, component integration and writing firmware.
+        description: Designed an IoT medicine dispenser with automatic alerts for refilling, dose collection and location tracking. The end-to-end design process involved part selection, PCB layout, CAD design, power architecture design, Over The Air Firmware Update and custom bootloader design, wireless communications and firmware design. 
         link: https://github.com/briankwn/SmartDose  
         video: assets/videos/ESE516.mp4
 
 
     Multi-Robot Sorting System:
         name: Multi-Robot Parcel Sorting System
-        description: Designed simulation for multi-robot parcel sorting systems on ROS. The simulation worked for 120 robots that independently planned their paths and avoided collisions. Created software to evaluate the efficiency of the simulation. Additionally worked on the control software for onboard micro-controllers to build a complete proof of concept.
+        description: Designed a ROS based simulation for multi-robot parcel sorting system. Developed software for map creation, planning, movement, diagnostics and evaluation of 120 robots. Introduced improvements which quadrupled the throughput of the system. 
         video: assets/videos/addverb.mp4
     
 
