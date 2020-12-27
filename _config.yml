@@ -74,7 +74,7 @@ project-list:
         name: RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform
         description: Implemented Unscented Kalman Filter, particle filter SLAM with LIDAR data, RRT* algorithm. Simulated autonomous quad-rotor landing on a moving platform using Aruco markers and minimum jerk quad-rotor trajectory under Gazebo and ROS.
         link: https://github.com/suveergarg/uav_landing   
-        video: assets/videos/Slam.webm
+        video: assets/videos/Slam.mp4
 
 
     Image Stitching and Optical Tracking:
@@ -100,7 +100,7 @@ project-list:
     Unmanned Ground Vehicles Team:
         name: Unmanned Ground Vehicle, DTU 2017-2018
         description: Founded and led a team of 6 students in building a automated ground vehicle under the Robot Operating System to participate in the IGVC competition held in Oakland, U.S.A. Responsible for team operations, raising funds and embedded systems development. My work involved interfacing the IMU and motor drivers through the microcontroller to communicate with the main system as a ROS node.
-        video: assets/videos/ugv.webm	      
+        video: assets/videos/ugv.mp4	      
 
 #    Tangible User Interface for Smart Mirror:
 #        name: Tangible User Interface for Smart Mirror
@@ -111,23 +111,23 @@ project-list:
     Ecofrost Technologies Pvt. Ltd.:
         name: Ecofrost Technologies, Internship, Pune 2017-2018
         description: Built capacitive sensing based embedded prototype for charge level measurement in Thermal batteries using level sensing of phase change material for energy management and temperature control in solar powered cold-storage units. Rectified errors after analysing data collected from prototype. At the end of the internship, I presented my results and offered a new approach to attain the objective of energy management for the system using the same sensor based on the learnings from the test experiments.
-        video: assets/videos/eco.webm
+        video: assets/videos/eco.mp4
       
  
     Smart Dustbin Project:
         name: Smart Dustbin Project, WeConvert, New Delhi 2017-2018
         description: The Smart dustbin was a Raspberry-Pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin. It makes use of Image Processing algorithms to classify objects and sort trash. My work involved developing the detection algorithms, human machine interface and firmware for the embedded systems.The system was tested at various colleges, malls, and public places. The initiative was covered by media agencies such as DuBeat, Your Story and ZeeTv.
-        video: assets/videos/weconvert.webm 	
+        video: assets/videos/weconvert.mp4 	
  
     Three Degree Of Freedom Robotic Arm:
         name: Three Degree of Freedom Robotic Arm
         description: This was built in a team of three for my minor project in university during my undergraduate career. My work involved making the robot description files(URDFs), setting up MoveIt and sending goal positions to the micro-controller using the ROS framework.
-        video: assets/videos/arm.webm 
+        video: assets/videos/arm.mp4 
 
     Object Follower:
         name: Object Follower
         description: Raspberry Pi based system that tracks an object in the HSV color space using blob detection and controls the motors such that the object lies in the center of the camera frame.
-        video: assets/videos/Track.webm
+        video: assets/videos/Track.mp4
       
     Beat Detection:
         name: Beat Detection
@@ -137,7 +137,7 @@ project-list:
     Line Follower Robot:
         name: Line Follower Robot
         description: This is a simple line follower built using light sensitive resistors and automatic calibration for different lighting scenarios.
-        video: assets/videos/Line_Follower.webm
+        video: assets/videos/Line_Follower.mp4
         
     Artist:
         name: Artist
