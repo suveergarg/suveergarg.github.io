@@ -56,7 +56,7 @@ projects: true
 project-list:
     Path planning, minimum jerk trajectory generation & PID controller for quadrotors: 
         name: Path planning, minimum jerk trajectory generation & PID control for quadrotor
-        description: Path planning using A*, smoothing using piecewise minimum trajectory generation and PID control for navigation in an indoor obstacle course. Additionally implemented a VIO pipeline to improve state estimation. 
+        description: Path planning using A*, smoothing using piecewise minimum trajectory generation and PID control for quadrotor navigation in an indoor obstacle course. Additionally implemented a VIO pipeline for state estimation. 
         video: assets/videos/MEAM620.mp4   
 
     Deep Learning for Computer Vision:
