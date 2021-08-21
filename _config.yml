@@ -43,7 +43,7 @@ skills: true
 
 # add your skills here
 skills-list:
-    - Python,C++
+    - Python,C++, C
     - Sklearn, Numpy, tensorflow, pandas, Matplotlib, pytorch
     - Altium Designer, Atmel Studio, Visual Studio, Docker    
     - Linux, ROS, Open-Frameworks
@@ -54,9 +54,14 @@ projects: true
 
 # add your projects here
 project-list:
+    Path planning, minimum jerk trajectory generation & PID control for quadrotor: 
+        name: Path planning, minimum jerk trajectory generation & PID control for quadrotor
+        description: Path planning using A*, smoothing using piecewise minimum trajectory generation and PID control for navigation in an indoor obstacle course. Additionally implemented a VIO pipeline to improve state estimation. 
+        video: assets/videos/MEAM620.mp4   
+
     Deep Learning for Computer Vision:
         name: Deep Learning for Computer Vision
-        description: As part of my Advanced Computer Vision course, I implemented YOLO, SOLO, VAE, DCGAN, Cyclic GAN and Faster Mask-RNN. For the course project, I experimented with a state of the art method that uses Ordinal depth supervision for 3D human pose estimation from single 2D images. This method tackles the lack of availability/variability of 3D ground truth pose data for natural images. Please visit the github links below for more infomation on these projects.
+        description: Implemented YOLO, SOLO, VAE, DCGAN, Cyclic GAN and Faster Mask-RNN. Course Project - Experimented with a state of the art method that uses Ordinal depth supervision for 3D human pose estimation from single 2D images. This method tackles the lack of availability/variability of 3D ground truth pose data for natural images. Please visit the github links below for more infomation on these projects.
         link: https://github.com/suveergarg/SOLO
         link1: https://github.com/suveergarg/YOLO
         link2: https://github.com/suveergarg/Faster-RCNN
@@ -66,13 +71,13 @@ project-list:
            
     Pick and Place using the 5-DOF Lynx arm in Gazebo: 
         name: Pick and Place using the Lynx arm in Gazebo
-        description: Used Forward and Inverse velocity and position kinematics to stack blocks in a simulation environment. This was part of a class final project where teams participated in a stacking competitions.
+        description: Used Forward and Inverse velocity and position kinematics to stack blocks in a simulation environment. Won a stacking competition as part of the class final project.
         video: assets/videos/MEAM520.mp4   
 
 
     RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform: 
         name: RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform
-        description: Implemented Unscented Kalman Filter, particle filter SLAM with LIDAR data, RRT* algorithm. Simulated autonomous quad-rotor landing on a moving platform using Aruco markers and minimum jerk quad-rotor trajectory under Gazebo and ROS.
+        description: Implemented Unscented Kalman Filter, particle filter SLAM with LIDAR data, RRT* algorithm. Simulated autonomous quad-rotor landing on a moving platform using Aruco markers and minimum jerk quad-rotor trajectory using Gazebo and ROS.
         link: https://github.com/suveergarg/uav_landing   
         video: assets/videos/Slam.mp4
 
