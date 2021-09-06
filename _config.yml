@@ -17,7 +17,7 @@ social-media: true
 # facebook: myfacebook
 linkedin: suveergarg
 github: suveergarg
-email: gsuveer@seas.upenn.edu
+email: gargsuveer@gmail.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -159,7 +159,7 @@ project-list:
         video: assets/videos/Line_Follower.mp4
         
     Artist:
-        num: 15
+        num:
         name: Artist
         description: This is a simple project made using junk material to draw simple shapes using the motor assembly controlled by an 8 bit atmel micro-controller through L293D motor driver.
         video: assets/videos/Artist.mp4
