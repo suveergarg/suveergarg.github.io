@@ -2,7 +2,7 @@
     {% for project_hash in site.project-list %}
     {% assign project = project_hash[1] %}
         <div class="item">
-                <h3 class="title">{{ project.name }}</h3>
+                <h3 class="title"><a id="{{project.num}}">{{ project.name }}</a></h3>
                 <p style="text-align:justify">{{ project.description }}</p>
 		{% if project.link %}
 		<a href= "{{project.link}}">{{project.link}}</a>
