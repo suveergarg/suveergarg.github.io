@@ -57,8 +57,12 @@ project-list:
     HIO-SDF - Hierarchical Incremental Online Signed Distance Field:
         num: 1 
         name: HIO-SDF - Hierarchical Incremental Online Signed Distance Field
-        description: Developed a novel method for constructing a differentiable global SDF for real-time planning in unknown environments. 
+        description: Developed a novel method for constructing a differentiable global SDF for real-time planning in unknown environments. More details on the project page linked below. 
+        link: https://samsunglabs.github.io/HIO-SDF-project-page/
+        link1: https://arxiv.org/pdf/2310.09463.pdf
+        link2: https://github.com/SamsungLabs/HIO-SDF
         video: assets/videos/hio_compressed.mp4
+
 
     Path planning, minimum jerk trajectory generation & PID controller for quadrotors:
         num: 4 
