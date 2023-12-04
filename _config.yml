@@ -70,8 +70,7 @@ project-list:
         link: https://samsunglabs.github.io/RAMP-project-page/
         link1: https://arxiv.org/pdf/2305.10534.pdf
         link2: https://github.com/SamsungLabs/RAMP
-        video: assets/videos/hio_sdf.mp4
-
+        video: assets/videos/ramp.mp4
 
     Path planning, minimum jerk trajectory generation & PID controller for quadrotors:
         num: 4 
