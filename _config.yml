@@ -61,7 +61,16 @@ project-list:
         link: https://samsunglabs.github.io/HIO-SDF-project-page/
         link1: https://arxiv.org/pdf/2310.09463.pdf
         link2: https://github.com/SamsungLabs/HIO-SDF
-        video: assets/videos/hio_compressed.mp4
+        video: assets/videos/hio_sdf.mp4
+    
+    RAMP - Hierarchical Reactive Motion Planning for Manipulation Tasks Using Implicit Signed Distance Functions:
+        num: 2 
+        name: RAMP - Hierarchical Reactive Motion Planning for Manipulation Tasks Using Implicit Signed Distance Functions
+        description: Reactive Action and Motion Planner (RAMP), a hierarchical approach where a novel variant of a Model Predictive Path Integral (MPPI) controller is used to generate trajectories which are then followed asynchronously by a local vector field controller. RAMP can rapidly find paths in the robot's configuration space, satisfy task and robot-specific constraints, and provide safety by reacting to static or dynamically moving obstacles. More details on the project page linked below. 
+        link: https://samsunglabs.github.io/RAMP-project-page/
+        link1: https://arxiv.org/pdf/2305.10534.pdf
+        link2: https://github.com/SamsungLabs/RAMP
+        video: assets/videos/hio_sdf.mp4
 
 
     Path planning, minimum jerk trajectory generation & PID controller for quadrotors:
