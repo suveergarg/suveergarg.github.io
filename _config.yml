@@ -54,14 +54,20 @@ projects: true
 
 # add your projects here
 project-list:
-    Path planning, minimum jerk trajectory generation & PID controller for quadrotors:
+    HIO-SDF - Hierarchical Incremental Online Signed Distance Field:
         num: 1 
+        name: HIO-SDF - Hierarchical Incremental Online Signed Distance Field
+        description: Developed a novel method for constructing a differentiable global SDF for real-time planning in unknown environments. 
+        video: assets/videos/hio_compressed.mp4
+
+    Path planning, minimum jerk trajectory generation & PID controller for quadrotors:
+        num: 4 
         name: Path planning, minimum jerk trajectory generation & PID control for quadrotor
         description: Path planning using A*, smoothing using piecewise minimum trajectory generation and PID control for quadrotor navigation in an indoor obstacle course. Additionally implemented a VIO pipeline for state estimation. 
         video: assets/videos/MEAM620.mp4   
 
     Deep Learning for Computer Vision:
-        num: 2	
+        num: 5	
         name: Deep Learning for Computer Vision
         description: Implemented YOLO, SOLO, VAE, DCGAN, Cyclic GAN and Faster Mask-RNN. Course Project - Experimented with a state of the art method that uses Ordinal depth supervision for 3D human pose estimation from single 2D images. This method tackles the lack of availability/variability of 3D ground truth pose data for natural images. Please visit the github links below for more infomation on these projects.
         link: https://github.com/suveergarg/SOLO
@@ -72,14 +78,14 @@ project-list:
         video: assets/videos/680.mp4
            
     Pick and Place using the 5-DOF Lynx arm in Gazebo: 
-        num: 3
+        num: 6
         name: Pick and Place using the Lynx arm in Gazebo
         description: Used Forward and Inverse velocity and position kinematics to stack blocks in a simulation environment. Won a stacking competition as part of the class final project.
         video: assets/videos/MEAM520.mp4   
 
 
     RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform: 
-        num: 4  
+        num: 7  
         name: RRT*, Particle Filter Based SLAM and Autonomous Quadrotor Landing on Moving Platform
         description: Implemented Unscented Kalman Filter, particle filter SLAM with LIDAR data, RRT* algorithm. Simulated autonomous quad-rotor landing on a moving platform using Aruco markers and minimum jerk quad-rotor trajectory using Gazebo and ROS.
         link: https://github.com/suveergarg/uav_landing   
@@ -87,7 +93,7 @@ project-list:
 
 
     Image Stitching and Optical Tracking:
-        num: 5
+        num: 8
         name: Image Stitching and Optical Tracking
         description: Created python modules for edge and corner detection, adaptive non-maximal suppression, homography estimation, feature matching using knn, outlier detection with RANSAC and poisson blending to produce smooth stitched images and videos. Additionally, implemented Lucas Kanade optical flow tracking algorithm to track moving objects in a video.
         link: https://github.com/suveergarg/cis581-3A 
@@ -95,7 +101,7 @@ project-list:
 
 
     Intelligent Travel Friendly Medicine Dispenser:
-        num: 6 
+        num: 9 
         name: Intelligent Travel Friendly Medicine Dispenser
         description: Designed an IoT medicine dispenser with automatic alerts for refilling, dose collection and location tracking. The end-to-end design process involved part selection, PCB layout, CAD design, power architecture design, Over The Air Firmware Update and custom bootloader design, wireless communications and firmware design. 
         link: https://github.com/briankwn/SmartDose  
@@ -103,14 +109,14 @@ project-list:
 
 
     Multi-Robot Sorting System:
-        num: 7
+        num: 10
         name: Multi-Robot Parcel Sorting System
         description: Designed a ROS based simulation for multi-robot parcel sorting system. Developed software for map creation, planning, movement, diagnostics and evaluation of 120 robots. Introduced improvements which quadrupled the throughput of the system. 
         video: assets/videos/addverb.mp4
     
 
     Unmanned Ground Vehicles Team:
-        num: 8
+        num: 11
         name: Unmanned Ground Vehicle, DTU 2017-2018
         description: Founded and led a team of 6 students in building a automated ground vehicle under the Robot Operating System to participate in the IGVC competition held in Oakland, U.S.A. Responsible for team operations, raising funds and embedded systems development. My work involved interfacing the IMU and motor drivers through the microcontroller to communicate with the main system as a ROS node.
         video: assets/videos/ugv.mp4	      
@@ -122,44 +128,44 @@ project-list:
      
 
     Ecofrost Technologies Pvt. Ltd.:
-        num: 9
+        num: 12
         name: Ecofrost Technologies, Internship, Pune 2017-2018
         description: Built capacitive sensing based embedded prototype for charge level measurement in Thermal batteries using level sensing of phase change material for energy management and temperature control in solar powered cold-storage units. Rectified errors after analysing data collected from prototype. At the end of the internship, I presented my results and offered a new approach to attain the objective of energy management for the system using the same sensor based on the learnings from the test experiments.
         video: assets/videos/eco.mp4
       
  
     Smart Dustbin Project:
-        num: 10
+        num: 13
         name: Smart Dustbin Project, WeConvert, New Delhi 2017-2018
         description: The Smart dustbin was a Raspberry-Pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin. It makes use of Image Processing algorithms to classify objects and sort trash. My work involved developing the detection algorithms, human machine interface and firmware for the embedded systems.The system was tested at various colleges, malls, and public places. The initiative was covered by media agencies such as DuBeat, Your Story and ZeeTv.
         video: assets/videos/weconvert.mp4 	
  
     Three Degree Of Freedom Robotic Arm:
-        num: 11
+        num: 14
         name: Three Degree of Freedom Robotic Arm
         description: This was built in a team of three for my minor project in university during my undergraduate career. My work involved making the robot description files(URDFs), setting up MoveIt and sending goal positions to the micro-controller using the ROS framework.
         video: assets/videos/arm.mp4 
 
     Object Follower:
-        num: 12
+        num: 15
         name: Object Follower
         description: Raspberry Pi based system that tracks an object in the HSV color space using blob detection and controls the motors such that the object lies in the center of the camera frame.
         video: assets/videos/Track.mp4
       
     Beat Detection:
-        num: 13
+        num: 16
         name: Beat Detection
         description: This project involved performing FFT on audio signals for beat detection and controlling servo motors to react to the sensed beats.
         video: assets/videos/beat.mp4
        
     Line Follower Robot:
-        num: 14
+        num: 17
         name: Line Follower Robot
         description: This is a simple line follower built using light sensitive resistors and automatic calibration for different lighting scenarios.
         video: assets/videos/Line_Follower.mp4
         
     Artist:
-        num:
+        num: 18
         name: Artist
         description: This is a simple project made using junk material to draw simple shapes using the motor assembly controlled by an 8 bit atmel micro-controller through L293D motor driver.
         video: assets/videos/Artist.mp4
