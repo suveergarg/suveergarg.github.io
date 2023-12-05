@@ -57,7 +57,7 @@ project-list:
     HIO-SDF - Hierarchical Incremental Online Signed Distance Field:
         num: 1 
         name: HIO-SDF - Hierarchical Incremental Online Signed Distance Field
-        description: Developed a novel method for constructing a differentiable global SDF for real-time planning in unknown environments. More details on the project page linked below. 
+        description: Developed a novel method for constructing a differentiable global SDF for real-time planning in unknown environments. HIO-SDF employs a coarse voxel grid that captures the observed parts of the environment together with high-resolution local information to train a neural network that represents the environment as a Signed Distance Field (SDF). More details on the project page linked below. 
         link: https://samsunglabs.github.io/HIO-SDF-project-page/
         link1: https://arxiv.org/pdf/2310.09463.pdf
         link2: https://github.com/SamsungLabs/HIO-SDF
@@ -103,7 +103,6 @@ project-list:
         link: https://github.com/suveergarg/uav_landing   
         video: assets/videos/Slam.mp4
 
-
     Image Stitching and Optical Tracking:
         num: 8
         name: Image Stitching and Optical Tracking
@@ -119,69 +118,24 @@ project-list:
         link: https://github.com/briankwn/SmartDose  
         video: assets/videos/ESE516.mp4
 
-
     Multi-Robot Sorting System:
         num: 10
         name: Multi-Robot Parcel Sorting System
         description: Designed a ROS based simulation for multi-robot parcel sorting system. Developed software for map creation, planning, movement, diagnostics and evaluation of 120 robots. Introduced improvements which quadrupled the throughput of the system. 
         video: assets/videos/addverb.mp4
     
-
-    Unmanned Ground Vehicles Team:
-        num: 11
-        name: Unmanned Ground Vehicle, DTU 2017-2018
-        description: Founded and led a team of 6 students in building a automated ground vehicle under the Robot Operating System to participate in the IGVC competition held in Oakland, U.S.A. Responsible for team operations, raising funds and embedded systems development. My work involved interfacing the IMU and motor drivers through the microcontroller to communicate with the main system as a ROS node.
-        video: assets/videos/ugv.mp4	      
-
-#    Tangible User Interface for Smart Mirror:
-#        name: Tangible User Interface for Smart Mirror
-#        description: This project under Prof.Aman Parnami at IIITD, Weave Lab, explored the application of a tangible user interface for mirrors of the future. Various interaction use cases were ideated that explored areas such as sharing stories, post-surgery rehabilitation and construction toolkits. My work involved writing the image processing, UI and embedded systems code under open-frameworks. It also involved writing use-cases and ideating with the team.
-#	 video: abc.mp4  
-     
-
     Ecofrost Technologies Pvt. Ltd.:
         num: 12
         name: Ecofrost Technologies, Internship, Pune 2017-2018
         description: Built capacitive sensing based embedded prototype for charge level measurement in Thermal batteries using level sensing of phase change material for energy management and temperature control in solar powered cold-storage units. Rectified errors after analysing data collected from prototype. At the end of the internship, I presented my results and offered a new approach to attain the objective of energy management for the system using the same sensor based on the learnings from the test experiments.
         video: assets/videos/eco.mp4
       
- 
     Smart Dustbin Project:
         num: 13
         name: Smart Dustbin Project, WeConvert, New Delhi 2017-2018
         description: The Smart dustbin was a Raspberry-Pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin. It makes use of Image Processing algorithms to classify objects and sort trash. My work involved developing the detection algorithms, human machine interface and firmware for the embedded systems.The system was tested at various colleges, malls, and public places. The initiative was covered by media agencies such as DuBeat, Your Story and ZeeTv.
         video: assets/videos/weconvert.mp4 	
  
-    Three Degree Of Freedom Robotic Arm:
-        num: 14
-        name: Three Degree of Freedom Robotic Arm
-        description: This was built in a team of three for my minor project in university during my undergraduate career. My work involved making the robot description files(URDFs), setting up MoveIt and sending goal positions to the micro-controller using the ROS framework.
-        video: assets/videos/arm.mp4 
-
-    Object Follower:
-        num: 15
-        name: Object Follower
-        description: Raspberry Pi based system that tracks an object in the HSV color space using blob detection and controls the motors such that the object lies in the center of the camera frame.
-        video: assets/videos/Track.mp4
-      
-    Beat Detection:
-        num: 16
-        name: Beat Detection
-        description: This project involved performing FFT on audio signals for beat detection and controlling servo motors to react to the sensed beats.
-        video: assets/videos/beat.mp4
-       
-    Line Follower Robot:
-        num: 17
-        name: Line Follower Robot
-        description: This is a simple line follower built using light sensitive resistors and automatic calibration for different lighting scenarios.
-        video: assets/videos/Line_Follower.mp4
-        
-    Artist:
-        num: 18
-        name: Artist
-        description: This is a simple project made using junk material to draw simple shapes using the motor assembly controlled by an 8 bit atmel micro-controller through L293D motor driver.
-        video: assets/videos/Artist.mp4
-
 # do you want to display the theme attribution? true or false
 footer: true
 
