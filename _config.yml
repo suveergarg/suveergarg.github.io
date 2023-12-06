@@ -57,7 +57,7 @@ project-list:
     HIO-SDF - Hierarchical Incremental Online Signed Distance Field:
         num: 1 
         name: HIO-SDF - Hierarchical Incremental Online Signed Distance Field
-        description: Developed a novel method for constructing a differentiable global SDF for real-time planning in unknown environments. HIO-SDF employs a coarse voxel grid that captures the observed parts of the environment together with high-resolution local information to train a neural network that represents the environment as a Signed Distance Field (SDF). More details on the project page linked below. 
+        description: Developed a novel method for constructing a differentiable global SDF for real-time planning in unknown environments. HIO-SDF employs a coarse voxel grid that captures the observed parts of the environment together with high-resolution local information to train a neural network that represents the environment as a Signed Distance Field (SDF). More details in the project page linked below. 
         link: https://samsunglabs.github.io/HIO-SDF-project-page/
         link1: https://arxiv.org/pdf/2310.09463.pdf
         link2: https://github.com/SamsungLabs/HIO-SDF
@@ -66,7 +66,7 @@ project-list:
     RAMP - Hierarchical Reactive Motion Planning for Manipulation Tasks Using Implicit Signed Distance Functions:
         num: 2 
         name: RAMP - Hierarchical Reactive Motion Planning for Manipulation Tasks Using Implicit Signed Distance Functions
-        description: Reactive Action and Motion Planner (RAMP), a hierarchical approach where a novel variant of a Model Predictive Path Integral (MPPI) controller is used to generate trajectories which are then followed asynchronously by a local vector field controller. RAMP can rapidly find paths in the robot's configuration space, satisfy task and robot-specific constraints, and provide safety by reacting to static or dynamically moving obstacles. More details on the project page linked below. 
+        description: Reactive Action and Motion Planner (RAMP), a hierarchical approach where a novel variant of a Model Predictive Path Integral (MPPI) controller is used to generate trajectories which are then followed asynchronously by a local vector field controller. RAMP can rapidly find paths in the robot's configuration space, satisfy task and robot-specific constraints, and provide safety by reacting to static or dynamically moving obstacles. More details in the project page linked below. 
         link: https://samsunglabs.github.io/RAMP-project-page/
         link1: https://arxiv.org/pdf/2305.10534.pdf
         link2: https://github.com/SamsungLabs/RAMP
