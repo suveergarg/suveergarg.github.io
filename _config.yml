@@ -43,10 +43,10 @@ skills: true
 
 # add your skills here
 skills-list:
-    - Python,C++, C
-    - Sklearn, Numpy, tensorflow, pandas, Matplotlib, pytorch
-    - Altium Designer, Atmel Studio, Visual Studio, Docker    
-    - Linux, ROS, Open-Frameworks
+    - Python, C++, C
+    - Sklearn, Numpy, tensorflow, pandas, Matplotlib, PyTorch, MLFlow, Sagemaker
+    - Altium Designer, Atmel Studio, Visual Studio, Docker, k8s, Django, PostgreSQL    
+    - Linux, ROS, AWS
     - Quick Prototyping Boards (Arduino, Raspberrry Pi), SAMD21(ARM 32 bit)	
 
 # do you want to display a projects section? true or false
@@ -54,8 +54,14 @@ projects: true
 
 # add your projects here
 project-list:
+    Oishii - World's first and largest indoor strawberry vertical farm:
+        num: 1
+        name: Robotic harvesting system for Strawberries
+        description: Maintained 60 robots in production with minimal downtime. Improved pick accuracy by 25% and reduced collateral damage to under 5% by using 3D vision solutions in production. Created an ML training pipeline to improve mAP values of instance segmentation and keypoint detection R-CNN models. Developed system to collect pick-metrics (successful, missed & dropped), vision-system metrics (latency & rejections) and farm-metrics (coverage & berry counts), helping multiple teams make data-driven decisions.  
+        video: assests/videos/OishiiHarvesting.webm
+        
     HIO-SDF - Hierarchical Incremental Online Signed Distance Field:
-        num: 1 
+        num: 2
         name: HIO-SDF - Hierarchical Incremental Online Signed Distance Field
         description: Developed a novel method for constructing a differentiable global SDF for real-time planning in unknown environments. HIO-SDF employs a coarse voxel grid that captures the observed parts of the environment together with high-resolution local information to train a neural network that represents the environment as a Signed Distance Field (SDF). More details in the project page linked below. 
         link: https://samsunglabs.github.io/HIO-SDF-project-page/
@@ -64,7 +70,7 @@ project-list:
         video: assets/videos/hio_sdf.mp4
     
     RAMP - Hierarchical Reactive Motion Planning for Manipulation Tasks Using Implicit Signed Distance Functions:
-        num: 2 
+        num: 3 
         name: RAMP - Hierarchical Reactive Motion Planning for Manipulation Tasks Using Implicit Signed Distance Functions
         description: Reactive Action and Motion Planner (RAMP), a hierarchical approach where a novel variant of a Model Predictive Path Integral (MPPI) controller is used to generate trajectories which are then followed asynchronously by a local vector field controller. RAMP can rapidly find paths in the robot's configuration space, satisfy task and robot-specific constraints, and provide safety by reacting to static or dynamically moving obstacles. More details in the project page linked below. 
         link: https://samsunglabs.github.io/RAMP-project-page/
