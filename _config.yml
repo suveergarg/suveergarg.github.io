@@ -58,7 +58,7 @@ project-list:
         num: 1
         name: Robotic harvesting system for Strawberries
         description: Maintained 60 robots in production with minimal downtime. Improved pick accuracy by 25% and reduced collateral damage to under 5% by using 3D vision solutions in production. Created an ML training pipeline to improve mAP values of instance segmentation and keypoint detection R-CNN models. Developed system to collect pick-metrics (successful, missed & dropped), vision-system metrics (latency & rejections) and farm-metrics (coverage & berry counts), helping multiple teams make data-driven decisions.  
-        video: assests/videos/OishiiHarvesting.webm
+        video: assets/videos/OishiiHarvesting.mp4
         
     HIO-SDF - Hierarchical Incremental Online Signed Distance Field:
         num: 2
